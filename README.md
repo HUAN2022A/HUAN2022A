@@ -49,11 +49,6 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
   <img width="48%" src="https://streak-stats.demolab.com?user=HUAN2022A&hide_border=true&background=0d1117&ring=58a6ff&fire=2ea043&currStreakLabel=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUAN2022A/HUAN2022A/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/HUAN2022A/HUAN2022A/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
-</picture>
-
 ---
 
 <div align="center">
