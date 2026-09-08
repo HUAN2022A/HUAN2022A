@@ -69,8 +69,6 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
   </picture>
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div align="center">
   <picture>
