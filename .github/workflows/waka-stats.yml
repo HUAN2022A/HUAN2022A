@@ -13,7 +13,7 @@ jobs:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: HUAN2022A/waka-readme-stats@2fe17561d7857650fde14b614b04886ece3e3166  # fork pinned: PUSH_TOKEN fix, see fork README
+      - uses: HUAN2022A/waka-readme-stats@a2ecbf0fe292616a298129c83063314f7518a639  # fork pinned: PUSH_TOKEN fix, see fork README
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
