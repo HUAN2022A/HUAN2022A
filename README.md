@@ -70,6 +70,13 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
   </picture>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUAN2022A/HUAN2022A/profile-3d-contrib/profile-night-green.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/HUAN2022A/HUAN2022A/profile-3d-contrib/profile-green-animate.svg" alt="3D isometric contribution graph of HUAN2022A" />
+  </picture>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUAN2022A/HUAN2022A/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/HUAN2022A/HUAN2022A/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%" />
