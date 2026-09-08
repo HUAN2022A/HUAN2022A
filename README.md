@@ -87,7 +87,7 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 ---
 
 <div align="center">
-  <a href="mailto:2653145940@qq.com"><img src="https://img.shields.io/badge/Email-2653145940%40qq.com-58a6ff?style=flat-square&logo=minutemailer&logoColor=white" alt="Email: 2653145940@qq.com" /></a>
+  <a href="mailto:zhihang_qu@bupt.edu.cn"><img src="https://img.shields.io/badge/Email-zhihang__qu%40bupt.edu.cn-58a6ff?style=flat-square&logo=minutemailer&logoColor=white" alt="Email: zhihang_qu@bupt.edu.cn" /></a>
   <img src="https://komarev.com/ghpvc/?username=HUAN2022A&style=flat-square&color=58a6ff&abbreviated=true" alt="profile views" />
   <br/>
   <em>"让 agent 真正跑进生产环境。"</em>
