@@ -56,7 +56,6 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 |:--|:--|:--|
 | [**Bid-AgentMate**](https://github.com/HUAN2022A/Bid-AgentMate) | AI 招投标文书生成与分析 Agent | `Python` |
 | [**agent-learning-lab**](https://github.com/HUAN2022A/agent-learning-lab) | 面向生产级 LLM Agent 工程的渐进式实战实验室 | `Python` |
-| [**optic-graphrag-portfolio**](https://github.com/HUAN2022A/optic-graphrag-portfolio) | 知识图谱构建与检索增强生成结合的 GraphRAG 作品集 | `GraphRAG` |
 | [**repolens**](https://github.com/HUAN2022A/repolens) | 为 AI 编码 agent 生成紧凑、即用的上下文包 | `JavaScript` |
 | [**Yolo-Wheat**](https://github.com/HUAN2022A/Yolo-Wheat) | YOLO 麦穗目标检测（作物监测） | `C++` |
 | [**bid-analyzer**](https://github.com/HUAN2022A/bid-analyzer) | 招投标文档结构化抽取与评分 | `Python` |
