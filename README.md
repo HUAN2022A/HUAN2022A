@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=ffffff&desc=Agent%20Engineering%20%40%20BUPT&descSize=17&descAlignY=70&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117%2C1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=ffffff&desc=Agent%20Engineering%20%40%20BUPT&descSize=17&descAlignY=70&animation=fadeIn" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f6f8fa,1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=1f2328&desc=Agent%20Engineering%20%40%20BUPT&descSize=17&descAlignY=70&animation=fadeIn" alt="Huan 幻 · Agent Engineering @ BUPT" />
 </picture>
 
@@ -16,7 +16,7 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,git,githubactions&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Cdocker%2Cfastapi%2Cgit%2Cgithubactions&theme=dark" />
     <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,git,githubactions&theme=light" alt="Tech stack: Python · PyTorch · Docker · FastAPI · Git · GitHub Actions" />
   </picture>
 </div>
@@ -117,6 +117,6 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f6feb,1:0d1117&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f6feb%2C1:0d1117&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f6feb,1:f6f8fa&section=footer" alt="waving footer" />
 </picture>
