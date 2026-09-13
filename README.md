@@ -15,14 +15,10 @@
 BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢读 agent 框架源码、修底层 bug，并把它们跑进真实业务。
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/LangChain-2D7A66?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/GraphRAG-2CA6A4?style=flat-square" alt="GraphRAG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,git,githubactions&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,git,githubactions&theme=light" alt="Tech stack: Python · PyTorch · Docker · FastAPI · Git · GitHub Actions" />
+  </picture>
 </div>
 
 ### 🔀 开源贡献 · Open Source
@@ -119,3 +115,8 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
   <br/>
   <em>"让 agent 真正跑进生产环境。"</em>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f6feb,1:0d1117&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f6feb,1:f6f8fa&section=footer" alt="waving footer" />
+</picture>
