@@ -27,11 +27,17 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 
 ### 🔀 开源贡献 · Open Source
 
+<!--START_SECTION:contrib-->
 **✅ 已合并 Merged**
 
-- [666ghj/BettaFish#699](https://github.com/666ghj/BettaFish/pull/699) — 修复永久 HTTP 错误的重试策略，改为快速失败
-- [guy-hartstein/company-research-agent#59](https://github.com/guy-hartstein/company-research-agent/pull/59) — 修复 setup 文档中的仓库链接
-- [open-city-ai/haidian#1393](https://github.com/open-city-ai/haidian/pull/1393) — 「五校环·原点学园带」数据包贡献（validation PASS）
+- [heshengtao/exameow#6](https://github.com/heshengtao/exameow/pull/6) — feat(export): Word exam paper export (bank export + exam launch download)
+- [heshengtao/exameow#5](https://github.com/heshengtao/exameow/pull/5) — fix(ai): make chat request timeout configurable via AI_TIMEOUT_SECS
+- [crewAIInc/crewAI#6678](https://github.com/crewAIInc/crewAI/pull/6678) — docs: list all workspace packages
+- [open-city-ai/haidian#1393](https://github.com/open-city-ai/haidian/pull/1393) — 提交：五校环·原点学园带 / Five-University Origin Ring
+- [langchain-ai/langchain#39174](https://github.com/langchain-ai/langchain/pull/39174) — fix(core): stop StructuredPrompt from mutating caller kwargs
+- [FB208/OpenBidKit_Yibiao#185](https://github.com/FB208/OpenBidKit_Yibiao/pull/185) — feat: 模板设置-标题样式扩展到9级 (#141)
+- [666ghj/BettaFish#699](https://github.com/666ghj/BettaFish/pull/699) — [codex] fail fast on permanent HTTP errors
+- [guy-hartstein/company-research-agent#59](https://github.com/guy-hartstein/company-research-agent/pull/59) — Fix setup repository links
 
 **🌟 方案被维护者采纳 Adopted**
 
@@ -39,16 +45,37 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 
 **🚧 进行中 In review**
 
-- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)**：[#6758](https://github.com/crewAIInc/crewAI/pull/6758) · [#6678](https://github.com/crewAIInc/crewAI/pull/6678) · [#6659](https://github.com/crewAIInc/crewAI/pull/6659)
-- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)**：[#17669](https://github.com/infiniflow/ragflow/pull/17669)
-- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)**：[#10117](https://github.com/stanfordnlp/dspy/pull/10117)
-- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**：[#16228](https://github.com/OpenHands/OpenHands/pull/16228)
-- **[TencentCloudADP/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)**：[#166](https://github.com/TencentCloudADP/youtu-graphrag/pull/166) · [#165](https://github.com/TencentCloudADP/youtu-graphrag/pull/165)
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)**：[#322](https://github.com/andrewyng/openworker/pull/322) · [#320](https://github.com/andrewyng/openworker/pull/320) · [#318](https://github.com/andrewyng/openworker/pull/318)
-- **[heshengtao/exameow](https://github.com/heshengtao/exameow)**：[#6](https://github.com/heshengtao/exameow/pull/6) · [#5](https://github.com/heshengtao/exameow/pull/5)
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)**：[#5611](https://github.com/HKUDS/nanobot/pull/5611)
-
-> 覆盖 replay 数据一致性、parser 加固、CLI 功能与 Windows 安全修复
+- **[kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)**：
+  - [kubernetes-sigs/agent-sandbox#1635](https://github.com/kubernetes-sigs/agent-sandbox/pull/1635) — docs(api): document shutdown defaults and podIPs suspend semantics
+- **[tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory)**：
+  - [tigerless-labs/agent-memory#37](https://github.com/tigerless-labs/agent-memory/pull/37) — Hold the store lock across find and write in correct and delete
+  - [tigerless-labs/agent-memory#36](https://github.com/tigerless-labs/agent-memory/pull/36) — Serialize decision ledger appends through the store lock
+- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)**：
+  - [nashsu/llm_wiki#753](https://github.com/nashsu/llm_wiki/pull/753) — fix(lint): derive stub type from target path; slug-match sweep resolution
+  - [nashsu/llm_wiki#752](https://github.com/nashsu/llm_wiki/pull/752) — fix(insights): replace density threshold with mean intra-degree
+  - [nashsu/llm_wiki#751](https://github.com/nashsu/llm_wiki/pull/751) — fix(claude-cli): surface is_error result events, not raw JSON dump
+  - [nashsu/llm_wiki#748](https://github.com/nashsu/llm_wiki/pull/748) — fix: map reasoning controls onto Zhipu BigModel's generation-specific thinking API
+- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**：
+  - [OpenHands/OpenHands#16228](https://github.com/OpenHands/OpenHands/pull/16228) — feat(cli): add --frontend-port option to launcher scripts
+- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)**：
+  - [crewAIInc/crewAI#6659](https://github.com/crewAIInc/crewAI/pull/6659) — fix: preserve replay data after kickoff_for_each
+  - [crewAIInc/crewAI#6758](https://github.com/crewAIInc/crewAI/pull/6758) — fix(agents): recover real tool calls from fabricated observation continuations
+- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)**：
+  - [infiniflow/ragflow#19371](https://github.com/infiniflow/ragflow/pull/19371) — [codex] Fix oversized dataflow operation log DSL
+  - [infiniflow/ragflow#19370](https://github.com/infiniflow/ragflow/pull/19370) — [codex] Fix OpenAI-compatible ASR provider
+  - [infiniflow/ragflow#17669](https://github.com/infiniflow/ragflow/pull/17669) — feat(deepdoc): verify PaddleOCR service connectivity in check_installation
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)**：
+  - [HKUDS/nanobot#5611](https://github.com/HKUDS/nanobot/pull/5611) — feat(agent): bound reasoning replay to the latest assistant turn
+- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)**：
+  - [stanfordnlp/dspy#10117](https://github.com/stanfordnlp/dspy/pull/10117) — fix(propose): include every dynamic signature in get_dspy_source_code
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)**：
+  - [andrewyng/openworker#320](https://github.com/andrewyng/openworker/pull/320) — [codex] Clean up session-owned processes and stores
+  - [andrewyng/openworker#322](https://github.com/andrewyng/openworker/pull/322) — [codex] Secure global MCP configuration writes
+  - [andrewyng/openworker#318](https://github.com/andrewyng/openworker/pull/318) — [codex] Secure workspace trust persistence on Windows
+- **[TencentCloudADP/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)**：
+  - [TencentCloudADP/youtu-graphrag#166](https://github.com/TencentCloudADP/youtu-graphrag/pull/166) — [codex] Add configurable LLM settings
+  - [TencentCloudADP/youtu-graphrag#165](https://github.com/TencentCloudADP/youtu-graphrag/pull/165) — [codex] Restrict schema type filtering to matching nodes
+<!--END_SECTION:contrib-->
 
 ### 🧩 项目 · Projects
 
@@ -59,6 +86,7 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 | [**repolens**](https://github.com/HUAN2022A/repolens) | 为 AI 编码 agent 生成紧凑、即用的上下文包 | `JavaScript` |
 | [**Yolo-Wheat**](https://github.com/HUAN2022A/Yolo-Wheat) | YOLO 麦穗目标检测（作物监测） | `C++` |
 | [**bid-analyzer**](https://github.com/HUAN2022A/bid-analyzer) | 招投标文档结构化抽取与评分 | `Python` |
+| [**bid-skills**](https://github.com/HUAN2022A/bid-skills) | 技术标书写作 skill 家族：输入招标文件，输出技术文件.docx | `Python` |
 
 ### 📊 数据 · Stats
 
