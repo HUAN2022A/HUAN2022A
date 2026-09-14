@@ -15,7 +15,7 @@
 <div align="center">
   <samp><strong>i love llm</strong></samp>&nbsp;<img src="assets/cursor.svg" width="12" height="26" alt="blinking cursor" align="middle" />
   <br/><br/>
-  最近聚焦 <strong>Agent 工程 · 光网络智能运维 · MR 数字孪生</strong>
+  Currently focused on <strong>Agent Engineering · Optical Networks AIOps · MR Digital Twin</strong>
 </div>
 
 <div align="center">
