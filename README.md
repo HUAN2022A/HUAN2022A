@@ -69,7 +69,7 @@ An end-to-end workflow for **bid documents**: tender parsing → point-by-point 
 ---
 
 <div align="center">
-  <a href="mailto:HUAN2026A@outlook.com"><img src="https://img.shields.io/badge/Email-HUAN2026A%40outlook.com-58a6ff?style=flat-square&logo=minutemailer&logoColor=white" alt="Email: HUAN2026A@outlook.com" /></a>
+  <a href="mailto:huanioleaf@gmail.com"><img src="https://img.shields.io/badge/Email-huanioleaf%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white" alt="Email: huanioleaf@gmail.com" /></a>
   <a href="https://wednesday-binary-produce-files.trycloudflare.com/blog/#/"><img src="https://img.shields.io/badge/Blog-1f6feb?style=flat-square&logoColor=white" alt="Blog" /></a>
   <a href="https://www.kaggle.com/quzhihang"><img src="https://img.shields.io/badge/Kaggle-quzhihang-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle: quzhihang" /></a>
   <img src="https://komarev.com/ghpvc/?username=HUAN2022A&style=flat-square&color=58a6ff&abbreviated=true" alt="profile views" />
