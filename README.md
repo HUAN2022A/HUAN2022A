@@ -12,10 +12,14 @@
 
 ### 🧭 关于我
 
+Hi, I'm **Huan 幻** 👋 — I'm from Henan, China.
+
+I'm a first-year master's student in Electronic Information at Beijing University of Posts and Telecommunications (BUPT).
+
+I'm currently working on LLM agent engineering, optical network AIOps, and MR digital twins.
+
 <div align="center">
   <img src="assets/hero.svg" width="640" alt="i love bupt" />
-  <br/><br/>
-  Currently focused on <strong>Agent Engineering · Optical Networks AIOps · MR Digital Twin</strong>
 </div>
 
 | 领域 | 常用技术（按使用频率） |
