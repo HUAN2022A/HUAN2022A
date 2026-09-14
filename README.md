@@ -13,22 +13,13 @@
 ### 🧭 关于我
 
 <div align="center">
-  <img src="assets/cat-typing.gif" width="240" alt="a cat typing on a keyboard" />
-  <br/>
-  <img src="assets/parrot.gif" width="56" alt="party parrot" />&nbsp;&nbsp;
-  <img src="assets/unicorn.gif" width="110" alt="dancing unicorn" />&nbsp;&nbsp;
-  <img src="assets/party-furby.gif" width="56" alt="party furby" />
-  <br/>
-  <img src="assets/under-construction.gif" width="72" alt="under construction" />&nbsp;&nbsp;
-  <img src="assets/counter.gif" width="52" alt="retro hit counter" />&nbsp;&nbsp;
-  <img src="assets/flames.gif" width="72" alt="flames" />
+  <samp><strong>i love llm</strong></samp>&nbsp;<img src="assets/cursor.svg" width="12" height="26" alt="blinking cursor" align="middle" />
+  <br/><br/>
+  最近聚焦 <strong>Agent 工程 · 光网络智能运维 · MR 数字孪生</strong>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Cdocker%2Cfastapi%2Cts%2Cunity%2Cgit%2Cgithubactions&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,ts,unity,git,githubactions&theme=light" alt="Tech stack: Python · PyTorch · Docker · FastAPI · TypeScript · Unity · Git · GitHub Actions" />
-  </picture>
+  <img src="assets/tech-stack.svg" width="624" alt="Tech stack wave animation: Python · PyTorch · Docker · FastAPI · TypeScript · Unity · Git · GitHub Actions" />
 </div>
 
 ### 🔬 研究 · 光网络智能运维 AIOps
