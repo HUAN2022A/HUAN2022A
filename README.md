@@ -13,7 +13,7 @@
 ### 🧭 关于我
 
 <div align="center">
-  <img src="assets/hero.svg" width="640" alt="i love llm" />
+  <img src="assets/hero.svg" width="640" alt="i love bupt" />
   <br/><br/>
   Currently focused on <strong>Agent Engineering · Optical Networks AIOps · MR Digital Twin</strong>
 </div>
