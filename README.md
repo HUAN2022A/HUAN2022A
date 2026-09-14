@@ -29,6 +29,14 @@
 - [**OpticalNetTwin**](https://github.com/HUAN2022A/OpticalNetTwin) — Quest 3 光网络 MR 数字孪生沙盘：Unity 6 + Meta XR 透视，50 节点 / 54 链路全息拓扑，「故障爆发 → 影响定位 → 保护倒换 → 恢复总结」六幕闭环演示
 - [**Quest3-MR-Assistant**](https://github.com/HUAN2022A/Quest3-MR-Assistant) — Quest 3 MR 视觉运维助手：透视相机 + VLM 实时理解现场设备，PC 端 LLM 服务支撑运维问答
 
+### 📑 实战 · 招投标文书智能化
+
+围绕**招投标文书**场景，打通「招标解析 → 逐点应答 → 机器核对 → 终稿导出」的完整工作流：
+
+- [**bid-skills**](https://github.com/HUAN2022A/bid-skills) — 技术标书写作 skill 家族：招标文件进，技术标书 .docx 出；评分点对照表贯穿「解析 → 大纲 → 改写 → 核对 → 导出」，无一处评分点被静默漏掉
+- [**Bid-AgentMate**](https://github.com/HUAN2022A/Bid-AgentMate) — 技术标书智能编写平台：把 bid-skills 升级为 FastAPI + React 的独立软件产品（开发中）
+- [**bid-analyzer**](https://github.com/HUAN2022A/bid-analyzer) — 招标文件智能分析工具：提取评分标准 / 资质技术商务要求 / 废标条款，自动生成 Word 分析报告
+
 ### 🔀 开源贡献 · Open Source
 
 <!--START_SECTION:contrib-->
@@ -52,17 +60,6 @@
 
 [OpenHands](https://github.com/OpenHands/OpenHands) · [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) · [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) · [Unity-Movement](https://github.com/oculus-samples/Unity-Movement) · [context-mode](https://github.com/mksglu/context-mode) · [agent-memory](https://github.com/tigerless-labs/agent-memory) · [llm_wiki](https://github.com/nashsu/llm_wiki) · [crewAI](https://github.com/crewAIInc/crewAI) · [ragflow](https://github.com/infiniflow/ragflow) · [nanobot](https://github.com/HKUDS/nanobot) · [dspy](https://github.com/stanfordnlp/dspy) · [openworker](https://github.com/andrewyng/openworker) · [youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)
 <!--END_SECTION:contrib-->
-
-### 🧩 项目 · Projects
-
-| 项目 | 简介 | 技术栈 |
-|:--|:--|:--|
-| [**Bid-AgentMate**](https://github.com/HUAN2022A/Bid-AgentMate) | AI 招投标文书生成与分析 Agent | `Python` |
-| [**agent-learning-lab**](https://github.com/HUAN2022A/agent-learning-lab) | 面向生产级 LLM Agent 工程的渐进式实战实验室 | `Python` |
-| [**repolens**](https://github.com/HUAN2022A/repolens) | 为 AI 编码 agent 生成紧凑、即用的上下文包 | `JavaScript` |
-| [**Yolo-Wheat**](https://github.com/HUAN2022A/Yolo-Wheat) | YOLO 麦穗目标检测（作物监测） | `C++` |
-| [**bid-analyzer**](https://github.com/HUAN2022A/bid-analyzer) | 招投标文档结构化抽取与评分 | `Python` |
-| [**bid-skills**](https://github.com/HUAN2022A/bid-skills) | 技术标书写作 skill 家族：输入招标文件，输出技术文件.docx | `Python` |
 
 ### 📊 数据 · Stats
 
