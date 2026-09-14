@@ -41,17 +41,12 @@
 ### 🔀 开源贡献 · Open Source
 
 <!--START_SECTION:contrib-->
-**✅ 已合并 Merged**
+**✅ 已合并 Merged** — 共 9 个
 
-- [opensandbox-group/OpenSandbox#1830](https://github.com/opensandbox-group/OpenSandbox/pull/1830) — fix(python-sdk): wait for endpoint publication when creating
-- [heshengtao/exameow#6](https://github.com/heshengtao/exameow/pull/6) — feat(export): Word exam paper export (bank export + exam launch download)
-- [heshengtao/exameow#5](https://github.com/heshengtao/exameow/pull/5) — fix(ai): make chat request timeout configurable via AI_TIMEOUT_SECS
-- [crewAIInc/crewAI#6678](https://github.com/crewAIInc/crewAI/pull/6678) — docs: list all workspace packages
-- [open-city-ai/haidian#1393](https://github.com/open-city-ai/haidian/pull/1393) — 提交：五校环·原点学园带 / Five-University Origin Ring
-- [langchain-ai/langchain#39174](https://github.com/langchain-ai/langchain/pull/39174) — fix(core): stop StructuredPrompt from mutating caller kwargs
-- [FB208/OpenBidKit_Yibiao#185](https://github.com/FB208/OpenBidKit_Yibiao/pull/185) — feat: 模板设置-标题样式扩展到9级 (#141)
-- [666ghj/BettaFish#699](https://github.com/666ghj/BettaFish/pull/699) — [codex] fail fast on permanent HTTP errors
-- [guy-hartstein/company-research-agent#59](https://github.com/guy-hartstein/company-research-agent/pull/59) — Fix setup repository links
+⭐ **[langchain-ai/langchain#39174](https://github.com/langchain-ai/langchain/pull/39174)** — fix(core): stop StructuredPrompt from mutating caller kwargs
+> 核心修复：StructuredPrompt 曾原地改写调用方的 kwargs，给 prompt 构建引入隐式副作用；此修复让行为回归纯净，主线仓库直接合并。
+
+其余已合并：[OpenSandbox#1830](https://github.com/opensandbox-group/OpenSandbox/pull/1830) · [exameow#6](https://github.com/heshengtao/exameow/pull/6) · [exameow#5](https://github.com/heshengtao/exameow/pull/5) · [crewAI#6678](https://github.com/crewAIInc/crewAI/pull/6678) · [haidian#1393](https://github.com/open-city-ai/haidian/pull/1393) · [OpenBidKit_Yibiao#185](https://github.com/FB208/OpenBidKit_Yibiao/pull/185) · [BettaFish#699](https://github.com/666ghj/BettaFish/pull/699) · [company-research-agent#59](https://github.com/guy-hartstein/company-research-agent/pull/59)
 
 **🌟 方案被维护者采纳 Adopted**
 
@@ -91,7 +86,7 @@
   <a href="https://www.kaggle.com/quzhihang"><img src="https://img.shields.io/badge/Kaggle-quzhihang-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle: quzhihang" /></a>
   <img src="https://komarev.com/ghpvc/?username=HUAN2022A&style=flat-square&color=58a6ff&abbreviated=true" alt="profile views" />
   <br/>
-  <em>"让 agent 真正跑进生产环境。"</em>
+  <em>"Agents belong in production."</em>
 </div>
 
 <picture>

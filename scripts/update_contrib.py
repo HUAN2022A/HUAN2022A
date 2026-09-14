@@ -47,6 +47,14 @@ ADOPTED_LINE = (
     "[#7345](https://github.com/microsoft/agent-framework/pull/7345)"
 )
 
+# Featured merged PRs: (repo, number) -> one-line note on why it matters.
+FEATURED = {
+    ("langchain-ai/langchain", 39174): (
+        "核心修复：StructuredPrompt 曾原地改写调用方的 kwargs，给 prompt "
+        "构建引入隐式副作用；此修复让行为回归纯净，主线仓库直接合并。"
+    ),
+}
+
 _REPO_RE = re.compile(r"/repos/([^/]+/[^/]+?)(?:/|$)")
 _OWN_URL_FRAGMENT = "/repos/" + GITHUB_USER + "/"
 
@@ -116,25 +124,36 @@ def to_entry(item):
     }
 
 
-def entry_line(entry):
-    return "- [%s#%s](%s) — %s" % (
-        entry["repo"],
-        entry["number"],
-        entry["url"],
-        entry["title"],
-    )
-
-
 def render_block(merged, open_prs):
     lines = []
 
-    lines.append("**✅ 已合并 Merged**")
+    lines.append(
+        "**✅ 已合并 Merged** — 共 %d 个" % len(merged) if merged else "**✅ 已合并 Merged**"
+    )
     lines.append("")
     if merged:
-        for entry in merged[:MERGED_LIMIT]:
-            lines.append(entry_line(entry))
+        visible = merged[:MERGED_LIMIT]
+        featured = [e for e in visible if (e["repo"], e["number"]) in FEATURED]
+        rest = [e for e in visible if (e["repo"], e["number"]) not in FEATURED]
+        for entry in featured:
+            why = FEATURED[(entry["repo"], entry["number"])]
+            lines.append(
+                "⭐ **[%s#%s](%s)** — %s"
+                % (entry["repo"], entry["number"], entry["url"], entry["title"])
+            )
+            lines.append("> " + why)
+            lines.append("")
+        if rest:
+            lines.append(
+                "其余已合并："
+                + " · ".join(
+                    "[%s#%s](%s)" % (e["repo"].split("/")[-1], e["number"], e["url"])
+                    for e in rest
+                )
+            )
         if len(merged) > MERGED_LIMIT:
-            lines.append("- 等共 %d 个" % len(merged))
+            lines.append("")
+            lines.append("等共 %d 个" % len(merged))
     else:
         lines.append("- 暂无")
 
