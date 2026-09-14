@@ -1,29 +1,29 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117%2C1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=ffffff&desc=Agent%20Engineering%20%40%20BUPT&descSize=17&descAlignY=70&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f6f8fa,1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=1f2328&desc=Agent%20Engineering%20%40%20BUPT&descSize=17&descAlignY=70&animation=fadeIn" alt="Huan 幻 · Agent Engineering @ BUPT" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117%2C1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=ffffff&desc=Agent%20Engineering%20%C2%B7%20AIOps%20Research&descSize=17&descAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f6f8fa,1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=1f2328&desc=Agent%20Engineering%20%C2%B7%20AIOps%20Research&descSize=17&descAlignY=70&animation=fadeIn" alt="Huan 幻 · Agent Engineering · AIOps Research" />
 </picture>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=LLM+Agent+Engineering+%40+BUPT;Contributing+to+CrewAI+%C2%B7+RAGFlow+%C2%B7+DSPy;Production-minded+agents%2C+real+systems" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=0969DA&center=true&vCenter=true&width=580&lines=LLM+Agent+Engineering+%40+BUPT;Contributing+to+CrewAI+%C2%B7+RAGFlow+%C2%B7+DSPy;Production-minded+agents%2C+real+systems" alt="LLM Agent Engineering @ BUPT · Contributing to CrewAI / RAGFlow / DSPy · Production-minded agents, real systems" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=LLM+Agent+Engineering+%C2%B7+AIOps+Research;Merged%3A+CrewAI+%C2%B7+LangChain+%C2%B7+RAGFlow+%C2%B7+DSPy;Production-minded+agents%2C+real+systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=0969DA&center=true&vCenter=true&width=580&lines=LLM+Agent+Engineering+%C2%B7+AIOps+Research;Merged%3A+CrewAI+%C2%B7+LangChain+%C2%B7+RAGFlow+%C2%B7+DSPy;Production-minded+agents%2C+real+systems" alt="LLM Agent Engineering · AIOps Research · Merged: CrewAI / LangChain / RAGFlow / DSPy · Production-minded agents, real systems" />
   </picture>
 </div>
 
 ### 🧭 关于我
 
-BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢读 agent 框架源码、修底层 bug，并把它们跑进真实业务。
+拆过 agent 框架的骨架，也修过它们最底层的 bug——PR 合并进 crewAI、langchain、OpenSandbox，一个去重方案被微软官方吸收。坚信 **agent 不是 demo 玩具，而是要跑进生产的系统**。最近的研究新方向：**光网络智能运维**——白天调 agent，晚上在 Quest 3 里搭全光网络数字孪生。
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Cdocker%2Cfastapi%2Cgit%2Cgithubactions&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,git,githubactions&theme=light" alt="Tech stack: Python · PyTorch · Docker · FastAPI · Git · GitHub Actions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Cdocker%2Cfastapi%2Cts%2Cunity%2Cgit%2Cgithubactions&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,ts,unity,git,githubactions&theme=light" alt="Tech stack: Python · PyTorch · Docker · FastAPI · TypeScript · Unity · Git · GitHub Actions" />
   </picture>
 </div>
 
 ### 🔬 研究 · 光网络智能运维 AIOps
 
-围绕**光网络智能运维（AIOps for Optical Networks）**方向，构建「全光感知 → 智能诊断 → 决策推演 → 自动自愈」的完整闭环：
+围绕**光网络智能运维**（**AIOps for Optical Networks**）方向，构建「全光感知 → 智能诊断 → 决策推演 → 自动自愈」的完整闭环：
 
 - [**OptiWise 光网智维**](https://github.com/HUAN2022A/OptiWise) — 光网络智能运维可交互概念演示：省级骨干 / 城域 OTN / 超长距干线 / 算力 DCI 四类场景，覆盖智能监控（OSNR · OPM 光谱 · 劣化波道）、故障演练（告警压缩 → 根因定位 → 迂回路由一键自愈）、30 天健康度预测与 AI 运维助手
 - [**OpticalNetTwin**](https://github.com/HUAN2022A/OpticalNetTwin) — Quest 3 光网络 MR 数字孪生沙盘：Unity 6 + Meta XR 透视，50 节点 / 54 链路全息拓扑，「故障爆发 → 影响定位 → 保护倒换 → 恢复总结」六幕闭环演示
