@@ -14,13 +14,23 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=560&height=64&lines=%E4%B8%87%E7%89%A9%E7%9A%86%E6%9C%89%E8%A3%82%E7%97%95%EF%BC%8C%E9%82%A3%E6%98%AF%E5%85%89%E8%BF%9B%E6%9D%A5%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82" />
-    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=560&height=64&lines=%E4%B8%87%E7%89%A9%E7%9A%86%E6%9C%89%E8%A3%82%E7%97%95%EF%BC%8C%E9%82%A3%E6%98%AF%E5%85%89%E8%BF%9B%E6%9D%A5%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82" alt="万物皆有裂痕，那是光进来的地方。" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=560&height=64&lines=%E4%BA%BA%E4%B8%8D%E8%83%BD%E4%B8%A4%E6%AC%A1%E8%B8%8F%E8%BF%9B%E5%90%8C%E4%B8%80%E6%9D%A1%E6%B2%B3%E6%B5%81%E3%80%82" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=560&height=64&lines=%E4%BA%BA%E4%B8%8D%E8%83%BD%E4%B8%A4%E6%AC%A1%E8%B8%8F%E8%BF%9B%E5%90%8C%E4%B8%80%E6%9D%A1%E6%B2%B3%E6%B5%81%E3%80%82" alt="人不能两次踏进同一条河流。" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&pause=99999999&color=C9A227&center=true&vCenter=true&width=680&height=44&lines=%22There+is+a+crack+in+everything%2C+that%27s+how+the+light+gets+in.%22+%E2%80%94+Leonard+Cohen" />
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&pause=99999999&color=9A6700&center=true&vCenter=true&width=680&height=44&lines=%22There+is+a+crack+in+everything%2C+that%27s+how+the+light+gets+in.%22+%E2%80%94+Leonard+Cohen" alt="&quot;There is a crack in everything, that's how the light gets in.&quot; — Leonard Cohen" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=17&pause=99999999&color=C9A227&center=true&vCenter=true&width=560&height=40&lines=%22No+man+ever+steps+in+the+same+river+twice.%22+%E2%80%94+Heraclitus" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=17&pause=99999999&color=9A6700&center=true&vCenter=true&width=560&height=40&lines=%22No+man+ever+steps+in+the+same+river+twice.%22+%E2%80%94+Heraclitus" alt="&quot;No man ever steps in the same river twice.&quot; — Heraclitus" />
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=580&height=64&lines=%E9%97%AE%E6%9C%BA%E5%99%A8%E8%83%BD%E5%90%A6%E6%80%9D%E8%80%83%EF%BC%8C%E5%B0%B1%E5%83%8F%E9%97%AE%E6%BD%9C%E8%89%87%E8%83%BD%E5%90%A6%E6%B8%B8%E6%B3%B3%E3%80%82" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=580&height=64&lines=%E9%97%AE%E6%9C%BA%E5%99%A8%E8%83%BD%E5%90%A6%E6%80%9D%E8%80%83%EF%BC%8C%E5%B0%B1%E5%83%8F%E9%97%AE%E6%BD%9C%E8%89%87%E8%83%BD%E5%90%A6%E6%B8%B8%E6%B3%B3%E3%80%82" alt="问机器能否思考，就像问潜艇能否游泳。" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=C9A227&center=true&vCenter=true&width=800&height=40&lines=%22Asking+whether+machines+can+think+is+as+relevant+as+asking+whether+submarines+can+swim.%22+%E2%80%94+Dijkstra" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=9A6700&center=true&vCenter=true&width=800&height=40&lines=%22Asking+whether+machines+can+think+is+as+relevant+as+asking+whether+submarines+can+swim.%22+%E2%80%94+Dijkstra" alt="&quot;Asking whether machines can think is as relevant as asking whether submarines can swim.&quot; — Dijkstra" />
   </picture>
 </div>
 
