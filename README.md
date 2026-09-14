@@ -13,7 +13,7 @@
 ### 🧭 关于我
 
 <div align="center">
-  <samp><strong>i love llm</strong></samp>&nbsp;<img src="assets/cursor.svg" width="12" height="26" alt="blinking cursor" align="middle" />
+  <img src="assets/hero.svg" width="640" alt="i love llm" />
   <br/><br/>
   Currently focused on <strong>Agent Engineering · Optical Networks AIOps · MR Digital Twin</strong>
 </div>

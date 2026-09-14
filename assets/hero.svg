@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="130" viewBox="0 0 720 130">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#bc8cff"/>
+      <stop offset="1" stop-color="#39c5cf"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-0.5 0; 0.5 0; -0.5 0" keyTimes="0;0.5;1"
+        dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="720" height="130">
+        <animate attributeName="width" values="0;720" keyTimes="0;1"
+          calcMode="spline" keySplines="0.2 0.6 0.3 1"
+          dur="1.4s" begin="0.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#reveal)" filter="url(#glow)">
+    <text x="360" y="87" text-anchor="middle"
+      font-family="'Cascadia Code','JetBrains Mono','Fira Code',Consolas,Menlo,monospace"
+      font-size="64" font-weight="700" letter-spacing="2"
+      fill="url(#g)">i love llm</text>
+  </g>
+  <rect x="574" y="30" width="12" height="58" fill="url(#g)">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1"
+      dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
