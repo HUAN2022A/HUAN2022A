@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117%2C1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=ffffff&desc=Agent%20Engineering%20%C2%B7%20AIOps%20Research&descSize=17&descAlignY=70&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f6f8fa,1:1f6feb&section=header&text=Huan%20%E5%B9%BB&fontSize=44&fontColor=1f2328&desc=Agent%20Engineering%20%C2%B7%20AIOps%20Research&descSize=17&descAlignY=70&animation=fadeIn" alt="Huan 幻 · Agent Engineering · AIOps Research" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117%2C1:1f6feb&section=header&text=Huan&fontSize=44&fontColor=ffffff&desc=Agent%20Engineering%20%C2%B7%20AIOps%20Research&descSize=17&descAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:f6f8fa,1:1f6feb&section=header&text=Huan&fontSize=44&fontColor=1f2328&desc=Agent%20Engineering%20%C2%B7%20AIOps%20Research&descSize=17&descAlignY=70&animation=fadeIn" alt="Huan · Agent Engineering · AIOps Research" />
 </picture>
 
 <div align="center">
@@ -10,9 +10,9 @@
   </picture>
 </div>
 
-### 🧭 关于我
+### 🧭 About Me
 
-Hi, I'm **Huan 幻** 👋 — I'm from Henan, China.
+Hi, I'm **Huan** 👋 — I'm from Henan, China.
 
 I'm a first-year master's student in Electronic Information at Beijing University of Posts and Telecommunications (BUPT).
 
@@ -22,29 +22,29 @@ I'm currently working on LLM agent engineering, optical network AIOps, and MR di
   <img src="assets/hero.svg" width="640" alt="i love bupt" />
 </div>
 
-| 领域 | 常用技术（按使用频率） |
+| Domain | Tools (by usage frequency) |
 |:--|:--|
-| **Agent 工程** | ![Python](https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-1f6feb?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1f6feb?style=flat-square&logo=fastapi&logoColor=white) |
-| **光网络 & XR** | ![C#](https://img.shields.io/badge/C%23-1f6feb?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-1f6feb?style=flat-square&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-1f6feb?style=flat-square&logo=cplusplus&logoColor=white) |
-| **前端 & 工具链** | ![TypeScript](https://img.shields.io/badge/TypeScript-1f6feb?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1f6feb?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-1f6feb?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1f6feb?style=flat-square&logo=githubactions&logoColor=white) |
+| **Agent Engineering** | ![Python](https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-1f6feb?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1f6feb?style=flat-square&logo=fastapi&logoColor=white) |
+| **Optical Networks & XR** | ![C#](https://img.shields.io/badge/C%23-1f6feb?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-1f6feb?style=flat-square&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-1f6feb?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Frontend & Toolchain** | ![TypeScript](https://img.shields.io/badge/TypeScript-1f6feb?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1f6feb?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-1f6feb?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1f6feb?style=flat-square&logo=githubactions&logoColor=white) |
 
-### 🔬 研究 · 光网络智能运维 AIOps
+### 🔬 Research · AIOps for Optical Networks
 
-围绕**光网络智能运维**（**AIOps for Optical Networks**）方向，构建「全光感知 → 智能诊断 → 决策推演 → 自动自愈」的完整闭环：
+Building a closed loop of **full-optical sensing → intelligent diagnosis → decision simulation → automatic self-healing** for **AIOps for Optical Networks**:
 
-- [**OptiWise 光网智维**](https://github.com/HUAN2022A/OptiWise) — 光网络智能运维可交互概念演示：省级骨干 / 城域 OTN / 超长距干线 / 算力 DCI 四类场景，覆盖智能监控（OSNR · OPM 光谱 · 劣化波道）、故障演练（告警压缩 → 根因定位 → 迂回路由一键自愈）、30 天健康度预测与 AI 运维助手
-- [**OpticalNetTwin**](https://github.com/HUAN2022A/OpticalNetTwin) — Quest 3 光网络 MR 数字孪生沙盘：Unity 6 + Meta XR 透视，50 节点 / 54 链路全息拓扑，「故障爆发 → 影响定位 → 保护倒换 → 恢复总结」六幕闭环演示
-- [**Quest3-MR-Assistant**](https://github.com/HUAN2022A/Quest3-MR-Assistant) — Quest 3 MR 视觉运维助手：透视相机 + VLM 实时理解现场设备，PC 端 LLM 服务支撑运维问答
+- [**OptiWise**](https://github.com/HUAN2022A/OptiWise) — Interactive concept demo of optical-network AIOps: four scenarios (provincial backbone / metro OTN / ultra-long-haul / computing DCI), covering intelligent monitoring (OSNR · OPM spectra · degraded channels), fault drills (alarm compression → root-cause localization → one-click detour-based self-healing), 30-day health prediction, and an AI ops assistant.
+- [**OpticalNetTwin**](https://github.com/HUAN2022A/OpticalNetTwin) — Quest 3 MR digital-twin sandbox for optical networks: Unity 6 + Meta XR passthrough, 50-node / 54-link holographic topology, and a six-act closed loop of "fault burst → impact localization → protection switching → recovery review".
+- [**Quest3-MR-Assistant**](https://github.com/HUAN2022A/Quest3-MR-Assistant) — Quest 3 MR visual ops assistant: passthrough camera + VLM to understand on-site equipment in real time, backed by a PC-side LLM service for ops Q&A.
 
-### 📑 实战 · 招投标文书智能化
+### 📑 Engineering · Bid Document Intelligence
 
-围绕**招投标文书**场景，打通「招标解析 → 逐点应答 → 机器核对 → 终稿导出」的完整工作流：
+An end-to-end workflow for **bid documents**: tender parsing → point-by-point response → machine checking → final export:
 
-- [**bid-skills**](https://github.com/HUAN2022A/bid-skills) — 技术标书写作 skill 家族：招标文件进，技术标书 .docx 出；评分点对照表贯穿「解析 → 大纲 → 改写 → 核对 → 导出」，无一处评分点被静默漏掉
-- [**Bid-AgentMate**](https://github.com/HUAN2022A/Bid-AgentMate) — 技术标书智能编写平台：把 bid-skills 升级为 FastAPI + React 的独立软件产品（开发中）
-- [**bid-analyzer**](https://github.com/HUAN2022A/bid-analyzer) — 招标文件智能分析工具：提取评分标准 / 资质技术商务要求 / 废标条款，自动生成 Word 分析报告
+- [**bid-skills**](https://github.com/HUAN2022A/bid-skills) — A skill family for technical proposal writing: tender document in, compliant technical proposal .docx out; a scoring-point ledger runs through parsing → outlining → rewriting → checking → export, so no scoring point is ever silently missed.
+- [**Bid-AgentMate**](https://github.com/HUAN2022A/Bid-AgentMate) — Intelligent proposal-writing platform: productizing bid-skills into an independent FastAPI + React application (in development).
+- [**bid-analyzer**](https://github.com/HUAN2022A/bid-analyzer) — Standalone tender-analysis tool: extracts scoring criteria, qualification / technical / commercial requirements, and disqualification clauses, then generates a Word analysis report automatically.
 
-### 📊 数据 · Stats
+### 📊 Stats
 
 <div align="center">
   <picture>
@@ -70,7 +70,7 @@ I'm currently working on LLM agent engineering, optical network AIOps, and MR di
 
 <div align="center">
   <a href="mailto:HUAN2026A@outlook.com"><img src="https://img.shields.io/badge/Email-HUAN2026A%40outlook.com-58a6ff?style=flat-square&logo=minutemailer&logoColor=white" alt="Email: HUAN2026A@outlook.com" /></a>
-  <a href="https://wednesday-binary-produce-files.trycloudflare.com/blog/#/"><img src="https://img.shields.io/badge/Blog-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-1f6feb?style=flat-square&logoColor=white" alt="Blog" /></a>
+  <a href="https://wednesday-binary-produce-files.trycloudflare.com/blog/#/"><img src="https://img.shields.io/badge/Blog-1f6feb?style=flat-square&logoColor=white" alt="Blog" /></a>
   <a href="https://www.kaggle.com/quzhihang"><img src="https://img.shields.io/badge/Kaggle-quzhihang-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle: quzhihang" /></a>
   <img src="https://komarev.com/ghpvc/?username=HUAN2022A&style=flat-square&color=58a6ff&abbreviated=true" alt="profile views" />
   <br/>
