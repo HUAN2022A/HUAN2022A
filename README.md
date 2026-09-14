@@ -24,13 +24,13 @@
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=580&height=64&lines=%E9%97%AE%E6%9C%BA%E5%99%A8%E8%83%BD%E5%90%A6%E6%80%9D%E8%80%83%EF%BC%8C%E5%B0%B1%E5%83%8F%E9%97%AE%E6%BD%9C%E8%89%87%E8%83%BD%E5%90%A6%E6%B8%B8%E6%B3%B3%E3%80%82" />
-    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=580&height=64&lines=%E9%97%AE%E6%9C%BA%E5%99%A8%E8%83%BD%E5%90%A6%E6%80%9D%E8%80%83%EF%BC%8C%E5%B0%B1%E5%83%8F%E9%97%AE%E6%BD%9C%E8%89%87%E8%83%BD%E5%90%A6%E6%B8%B8%E6%B3%B3%E3%80%82" alt="问机器能否思考，就像问潜艇能否游泳。" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=400&height=64&lines=%E6%9C%BA%E5%99%A8%E6%80%9D%E8%80%83%EF%BC%8C%E5%A6%82%E6%BD%9C%E8%89%87%E6%B8%B8%E6%B3%B3%E3%80%82" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=400&height=64&lines=%E6%9C%BA%E5%99%A8%E6%80%9D%E8%80%83%EF%BC%8C%E5%A6%82%E6%BD%9C%E8%89%87%E6%B8%B8%E6%B3%B3%E3%80%82" alt="机器思考，如潜艇游泳。" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=C9A227&center=true&vCenter=true&width=800&height=40&lines=%22Asking+whether+machines+can+think+is+as+relevant+as+asking+whether+submarines+can+swim.%22+%E2%80%94+Dijkstra" />
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=9A6700&center=true&vCenter=true&width=800&height=40&lines=%22Asking+whether+machines+can+think+is+as+relevant+as+asking+whether+submarines+can+swim.%22+%E2%80%94+Dijkstra" alt="&quot;Asking whether machines can think is as relevant as asking whether submarines can swim.&quot; — Dijkstra" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=C9A227&center=true&vCenter=true&width=520&height=40&lines=%22Machines+can+think+as+submarines+can+swim.%22+%E2%80%94+Dijkstra" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=9A6700&center=true&vCenter=true&width=520&height=40&lines=%22Machines+can+think+as+submarines+can+swim.%22+%E2%80%94+Dijkstra" alt="&quot;Machines can think as submarines can swim.&quot; — Dijkstra" />
   </picture>
 </div>
 
