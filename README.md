@@ -12,7 +12,17 @@
 
 ### 🧭 关于我
 
-修 bug 的人——修过 agent 框架的，也修光网络的。前者用 PR，后者用数字孪生。
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=560&height=64&lines=%E4%B8%87%E7%89%A9%E7%9A%86%E6%9C%89%E8%A3%82%E7%97%95%EF%BC%8C%E9%82%A3%E6%98%AF%E5%85%89%E8%BF%9B%E6%9D%A5%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=560&height=64&lines=%E4%B8%87%E7%89%A9%E7%9A%86%E6%9C%89%E8%A3%82%E7%97%95%EF%BC%8C%E9%82%A3%E6%98%AF%E5%85%89%E8%BF%9B%E6%9D%A5%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82" alt="万物皆有裂痕，那是光进来的地方。" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&pause=99999999&color=C9A227&center=true&vCenter=true&width=680&height=44&lines=%22There+is+a+crack+in+everything%2C+that%27s+how+the+light+gets+in.%22+%E2%80%94+Leonard+Cohen" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&pause=99999999&color=9A6700&center=true&vCenter=true&width=680&height=44&lines=%22There+is+a+crack+in+everything%2C+that%27s+how+the+light+gets+in.%22+%E2%80%94+Leonard+Cohen" alt="&quot;There is a crack in everything, that's how the light gets in.&quot; — Leonard Cohen" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>
