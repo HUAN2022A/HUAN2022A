@@ -18,9 +18,11 @@
   Currently focused on <strong>Agent Engineering · Optical Networks AIOps · MR Digital Twin</strong>
 </div>
 
-<div align="center">
-  <img src="assets/tech-stack.svg" width="624" alt="Tech stack wave animation: Python · PyTorch · Docker · FastAPI · TypeScript · Unity · Git · GitHub Actions" />
-</div>
+| 领域 | 常用技术（按使用频率） |
+|:--|:--|
+| **Agent 工程** | ![Python](https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-1f6feb?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1f6feb?style=flat-square&logo=fastapi&logoColor=white) |
+| **光网络 & XR** | ![C#](https://img.shields.io/badge/C%23-1f6feb?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-1f6feb?style=flat-square&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-1f6feb?style=flat-square&logo=cplusplus&logoColor=white) |
+| **前端 & 工具链** | ![TypeScript](https://img.shields.io/badge/TypeScript-1f6feb?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1f6feb?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-1f6feb?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1f6feb?style=flat-square&logo=githubactions&logoColor=white) |
 
 ### 🔬 研究 · 光网络智能运维 AIOps
 
@@ -64,6 +66,7 @@
 
 <div align="center">
   <a href="mailto:HUAN2026A@outlook.com"><img src="https://img.shields.io/badge/Email-HUAN2026A%40outlook.com-58a6ff?style=flat-square&logo=minutemailer&logoColor=white" alt="Email: HUAN2026A@outlook.com" /></a>
+  <a href="https://wednesday-binary-produce-files.trycloudflare.com/blog/#/"><img src="https://img.shields.io/badge/Blog-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-1f6feb?style=flat-square&logoColor=white" alt="Blog" /></a>
   <a href="https://www.kaggle.com/quzhihang"><img src="https://img.shields.io/badge/Kaggle-quzhihang-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle: quzhihang" /></a>
   <img src="https://komarev.com/ghpvc/?username=HUAN2022A&style=flat-square&color=58a6ff&abbreviated=true" alt="profile views" />
   <br/>
