@@ -12,7 +12,7 @@
 
 ### 🧭 关于我
 
-拆过 agent 框架的骨架，也修过它们最底层的 bug——PR 合并进 crewAI、langchain、OpenSandbox，一个去重方案被微软官方吸收。坚信 **agent 不是 demo 玩具，而是要跑进生产的系统**。最近的研究新方向：**光网络智能运维**——白天调 agent，晚上在 Quest 3 里搭全光网络数字孪生。
+修 bug 的人——修过 agent 框架的，也修光网络的。前者用 PR，后者用数字孪生。
 
 <div align="center">
   <picture>
