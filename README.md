@@ -13,25 +13,15 @@
 ### 🧭 关于我
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=560&height=64&lines=%E4%BA%BA%E4%B8%8D%E8%83%BD%E4%B8%A4%E6%AC%A1%E8%B8%8F%E8%BF%9B%E5%90%8C%E4%B8%80%E6%9D%A1%E6%B2%B3%E6%B5%81%E3%80%82" />
-    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=560&height=64&lines=%E4%BA%BA%E4%B8%8D%E8%83%BD%E4%B8%A4%E6%AC%A1%E8%B8%8F%E8%BF%9B%E5%90%8C%E4%B8%80%E6%9D%A1%E6%B2%B3%E6%B5%81%E3%80%82" alt="人不能两次踏进同一条河流。" />
-  </picture>
+  <img src="assets/cat-typing.gif" width="240" alt="a cat typing on a keyboard" />
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=17&pause=99999999&color=C9A227&center=true&vCenter=true&width=560&height=40&lines=%22No+man+ever+steps+in+the+same+river+twice.%22+%E2%80%94+Heraclitus" />
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=17&pause=99999999&color=9A6700&center=true&vCenter=true&width=560&height=40&lines=%22No+man+ever+steps+in+the+same+river+twice.%22+%E2%80%94+Heraclitus" alt="&quot;No man ever steps in the same river twice.&quot; — Heraclitus" />
-  </picture>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=C9A227&center=true&vCenter=true&width=400&height=64&lines=%E6%9C%BA%E5%99%A8%E6%80%9D%E8%80%83%EF%BC%8C%E5%A6%82%E6%BD%9C%E8%89%87%E6%B8%B8%E6%B3%B3%E3%80%82" />
-    <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=28&pause=99999999&color=9A6700&center=true&vCenter=true&width=400&height=64&lines=%E6%9C%BA%E5%99%A8%E6%80%9D%E8%80%83%EF%BC%8C%E5%A6%82%E6%BD%9C%E8%89%87%E6%B8%B8%E6%B3%B3%E3%80%82" alt="机器思考，如潜艇游泳。" />
-  </picture>
+  <img src="assets/parrot.gif" width="56" alt="party parrot" />&nbsp;&nbsp;
+  <img src="assets/unicorn.gif" width="110" alt="dancing unicorn" />&nbsp;&nbsp;
+  <img src="assets/party-furby.gif" width="56" alt="party furby" />
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=C9A227&center=true&vCenter=true&width=520&height=40&lines=%22Machines+can+think+as+submarines+can+swim.%22+%E2%80%94+Dijkstra" />
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=16&pause=99999999&color=9A6700&center=true&vCenter=true&width=520&height=40&lines=%22Machines+can+think+as+submarines+can+swim.%22+%E2%80%94+Dijkstra" alt="&quot;Machines can think as submarines can swim.&quot; — Dijkstra" />
-  </picture>
+  <img src="assets/under-construction.gif" width="72" alt="under construction" />&nbsp;&nbsp;
+  <img src="assets/counter.gif" width="52" alt="retro hit counter" />&nbsp;&nbsp;
+  <img src="assets/flames.gif" width="72" alt="flames" />
 </div>
 
 <div align="center">
