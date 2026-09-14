@@ -144,7 +144,10 @@ def render_block(merged, open_prs):
     lines.append(ADOPTED_LINE)
 
     lines.append("")
-    lines.append("**🚧 进行中 In review**")
+    if open_prs:
+        lines.append("**🚧 进行中 In review** — %d 个 PR 待审" % len(open_prs))
+    else:
+        lines.append("**🚧 进行中 In review**")
     lines.append("")
     if open_prs:
         groups = {}
@@ -155,10 +158,12 @@ def render_block(merged, open_prs):
             key=lambda pair: max(e["updated_at"] for e in pair[1]),
             reverse=True,
         )
-        for repo, entries in ordered:
-            lines.append("- **[%s](https://github.com/%s)**：" % (repo, repo))
-            for entry in sorted(entries, key=lambda e: e["updated_at"], reverse=True):
-                lines.append("  " + entry_line(entry))
+        lines.append(
+            " · ".join(
+                "[%s](https://github.com/%s)" % (repo.split("/")[-1], repo)
+                for repo, _ in ordered
+            )
+        )
     else:
         lines.append("- 暂无")
 

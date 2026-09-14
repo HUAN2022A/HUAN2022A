@@ -21,6 +21,14 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
   </picture>
 </div>
 
+### 🔬 研究 · 光网络智能运维 AIOps
+
+围绕**光网络智能运维（AIOps for Optical Networks）**方向，构建「全光感知 → 智能诊断 → 决策推演 → 自动自愈」的完整闭环：
+
+- [**OptiWise 光网智维**](https://github.com/HUAN2022A/OptiWise) — 光网络智能运维可交互概念演示：省级骨干 / 城域 OTN / 超长距干线 / 算力 DCI 四类场景，覆盖智能监控（OSNR · OPM 光谱 · 劣化波道）、故障演练（告警压缩 → 根因定位 → 迂回路由一键自愈）、30 天健康度预测与 AI 运维助手
+- [**OpticalNetTwin**](https://github.com/HUAN2022A/OpticalNetTwin) — Quest 3 光网络 MR 数字孪生沙盘：Unity 6 + Meta XR 透视，50 节点 / 54 链路全息拓扑，「故障爆发 → 影响定位 → 保护倒换 → 恢复总结」六幕闭环演示
+- [**Quest3-MR-Assistant**](https://github.com/HUAN2022A/Quest3-MR-Assistant) — Quest 3 MR 视觉运维助手：透视相机 + VLM 实时理解现场设备，PC 端 LLM 服务支撑运维问答
+
 ### 🔀 开源贡献 · Open Source
 
 <!--START_SECTION:contrib-->
@@ -40,44 +48,9 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 
 - [microsoft/agent-framework#7326](https://github.com/microsoft/agent-framework/pull/7326) — replayed approval calls 去重修复，方案被吸收进官方 PR [#7345](https://github.com/microsoft/agent-framework/pull/7345)
 
-**🚧 进行中 In review**
+**🚧 进行中 In review** — 23 个 PR 待审
 
-- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**：
-  - [OpenHands/OpenHands#16228](https://github.com/OpenHands/OpenHands/pull/16228) — feat(cli): add --frontend-port option to launcher scripts
-- **[kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)**：
-  - [kubernetes-sigs/agent-sandbox#1635](https://github.com/kubernetes-sigs/agent-sandbox/pull/1635) — docs(api): clarify SandboxClaim lifecycle defaults and podIPs resume semantics
-- **[opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)**：
-  - [opensandbox-group/OpenSandbox#1829](https://github.com/opensandbox-group/OpenSandbox/pull/1829) — fix(cli): pass native argv to command run without shell quoting
-- **[oculus-samples/Unity-Movement](https://github.com/oculus-samples/Unity-Movement)**：
-  - [oculus-samples/Unity-Movement#143](https://github.com/oculus-samples/Unity-Movement/pull/143) — Fix Hand_IndexTip bone label mapping for OpenXR hand skeletons in OVRSkeleton
-- **[mksglu/context-mode](https://github.com/mksglu/context-mode)**：
-  - [mksglu/context-mode#1155](https://github.com/mksglu/context-mode/pull/1155) — Redact secrets from the debug report before it leaves the machine
-- **[tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory)**：
-  - [tigerless-labs/agent-memory#37](https://github.com/tigerless-labs/agent-memory/pull/37) — Hold the store lock across find and write in correct and delete
-  - [tigerless-labs/agent-memory#36](https://github.com/tigerless-labs/agent-memory/pull/36) — Serialize decision ledger appends through the store lock
-- **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)**：
-  - [nashsu/llm_wiki#753](https://github.com/nashsu/llm_wiki/pull/753) — fix(lint): derive stub type from target path; slug-match sweep resolution
-  - [nashsu/llm_wiki#752](https://github.com/nashsu/llm_wiki/pull/752) — fix(insights): replace density threshold with mean intra-degree
-  - [nashsu/llm_wiki#751](https://github.com/nashsu/llm_wiki/pull/751) — fix(claude-cli): surface is_error result events, not raw JSON dump
-  - [nashsu/llm_wiki#748](https://github.com/nashsu/llm_wiki/pull/748) — fix: map reasoning controls onto Zhipu BigModel's generation-specific thinking API
-- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)**：
-  - [crewAIInc/crewAI#6659](https://github.com/crewAIInc/crewAI/pull/6659) — fix: preserve replay data after kickoff_for_each
-  - [crewAIInc/crewAI#6758](https://github.com/crewAIInc/crewAI/pull/6758) — fix(agents): recover real tool calls from fabricated observation continuations
-- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)**：
-  - [infiniflow/ragflow#19371](https://github.com/infiniflow/ragflow/pull/19371) — [codex] Fix oversized dataflow operation log DSL
-  - [infiniflow/ragflow#19370](https://github.com/infiniflow/ragflow/pull/19370) — [codex] Fix OpenAI-compatible ASR provider
-  - [infiniflow/ragflow#17669](https://github.com/infiniflow/ragflow/pull/17669) — feat(deepdoc): verify PaddleOCR service connectivity in check_installation
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)**：
-  - [HKUDS/nanobot#5611](https://github.com/HKUDS/nanobot/pull/5611) — feat(agent): bound reasoning replay to the latest assistant turn
-- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)**：
-  - [stanfordnlp/dspy#10117](https://github.com/stanfordnlp/dspy/pull/10117) — fix(propose): include every dynamic signature in get_dspy_source_code
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)**：
-  - [andrewyng/openworker#320](https://github.com/andrewyng/openworker/pull/320) — [codex] Clean up session-owned processes and stores
-  - [andrewyng/openworker#322](https://github.com/andrewyng/openworker/pull/322) — [codex] Secure global MCP configuration writes
-  - [andrewyng/openworker#318](https://github.com/andrewyng/openworker/pull/318) — [codex] Secure workspace trust persistence on Windows
-- **[TencentCloudADP/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)**：
-  - [TencentCloudADP/youtu-graphrag#166](https://github.com/TencentCloudADP/youtu-graphrag/pull/166) — [codex] Add configurable LLM settings
-  - [TencentCloudADP/youtu-graphrag#165](https://github.com/TencentCloudADP/youtu-graphrag/pull/165) — [codex] Restrict schema type filtering to matching nodes
+[OpenHands](https://github.com/OpenHands/OpenHands) · [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) · [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) · [Unity-Movement](https://github.com/oculus-samples/Unity-Movement) · [context-mode](https://github.com/mksglu/context-mode) · [agent-memory](https://github.com/tigerless-labs/agent-memory) · [llm_wiki](https://github.com/nashsu/llm_wiki) · [crewAI](https://github.com/crewAIInc/crewAI) · [ragflow](https://github.com/infiniflow/ragflow) · [nanobot](https://github.com/HKUDS/nanobot) · [dspy](https://github.com/stanfordnlp/dspy) · [openworker](https://github.com/andrewyng/openworker) · [youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)
 <!--END_SECTION:contrib-->
 
 ### 🧩 项目 · Projects
