@@ -38,25 +38,6 @@
 - [**Bid-AgentMate**](https://github.com/HUAN2022A/Bid-AgentMate) — 技术标书智能编写平台：把 bid-skills 升级为 FastAPI + React 的独立软件产品（开发中）
 - [**bid-analyzer**](https://github.com/HUAN2022A/bid-analyzer) — 招标文件智能分析工具：提取评分标准 / 资质技术商务要求 / 废标条款，自动生成 Word 分析报告
 
-### 🔀 开源贡献 · Open Source
-
-<!--START_SECTION:contrib-->
-**✅ 已合并 Merged** — 共 9 个
-
-⭐ **[langchain-ai/langchain#39174](https://github.com/langchain-ai/langchain/pull/39174)** — fix(core): stop StructuredPrompt from mutating caller kwargs
-> 核心修复：StructuredPrompt 曾原地改写调用方的 kwargs，给 prompt 构建引入隐式副作用；此修复让行为回归纯净，主线仓库直接合并。
-
-其余已合并：[OpenSandbox#1830](https://github.com/opensandbox-group/OpenSandbox/pull/1830) · [exameow#6](https://github.com/heshengtao/exameow/pull/6) · [exameow#5](https://github.com/heshengtao/exameow/pull/5) · [crewAI#6678](https://github.com/crewAIInc/crewAI/pull/6678) · [haidian#1393](https://github.com/open-city-ai/haidian/pull/1393) · [OpenBidKit_Yibiao#185](https://github.com/FB208/OpenBidKit_Yibiao/pull/185) · [BettaFish#699](https://github.com/666ghj/BettaFish/pull/699) · [company-research-agent#59](https://github.com/guy-hartstein/company-research-agent/pull/59)
-
-**🌟 方案被维护者采纳 Adopted**
-
-- [microsoft/agent-framework#7326](https://github.com/microsoft/agent-framework/pull/7326) — replayed approval calls 去重修复，方案被吸收进官方 PR [#7345](https://github.com/microsoft/agent-framework/pull/7345)
-
-**🚧 进行中 In review** — 23 个 PR 待审
-
-[OpenHands](https://github.com/OpenHands/OpenHands) · [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) · [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) · [Unity-Movement](https://github.com/oculus-samples/Unity-Movement) · [context-mode](https://github.com/mksglu/context-mode) · [agent-memory](https://github.com/tigerless-labs/agent-memory) · [llm_wiki](https://github.com/nashsu/llm_wiki) · [crewAI](https://github.com/crewAIInc/crewAI) · [ragflow](https://github.com/infiniflow/ragflow) · [nanobot](https://github.com/HKUDS/nanobot) · [dspy](https://github.com/stanfordnlp/dspy) · [openworker](https://github.com/andrewyng/openworker) · [youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)
-<!--END_SECTION:contrib-->
-
 ### 📊 数据 · Stats
 
 <div align="center">
