@@ -88,8 +88,3 @@
   <br/>
   <em>"Agents belong in production."</em>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f6feb%2C1:0d1117&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f6feb,1:f6f8fa&section=footer" alt="waving footer" />
-</picture>
