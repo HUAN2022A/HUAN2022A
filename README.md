@@ -26,6 +26,7 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 <!--START_SECTION:contrib-->
 **✅ 已合并 Merged**
 
+- [opensandbox-group/OpenSandbox#1830](https://github.com/opensandbox-group/OpenSandbox/pull/1830) — fix(python-sdk): wait for endpoint publication when creating
 - [heshengtao/exameow#6](https://github.com/heshengtao/exameow/pull/6) — feat(export): Word exam paper export (bank export + exam launch download)
 - [heshengtao/exameow#5](https://github.com/heshengtao/exameow/pull/5) — fix(ai): make chat request timeout configurable via AI_TIMEOUT_SECS
 - [crewAIInc/crewAI#6678](https://github.com/crewAIInc/crewAI/pull/6678) — docs: list all workspace packages
@@ -41,8 +42,16 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
 
 **🚧 进行中 In review**
 
+- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**：
+  - [OpenHands/OpenHands#16228](https://github.com/OpenHands/OpenHands/pull/16228) — feat(cli): add --frontend-port option to launcher scripts
 - **[kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)**：
-  - [kubernetes-sigs/agent-sandbox#1635](https://github.com/kubernetes-sigs/agent-sandbox/pull/1635) — docs(api): document shutdown defaults and podIPs suspend semantics
+  - [kubernetes-sigs/agent-sandbox#1635](https://github.com/kubernetes-sigs/agent-sandbox/pull/1635) — docs(api): clarify SandboxClaim lifecycle defaults and podIPs resume semantics
+- **[opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)**：
+  - [opensandbox-group/OpenSandbox#1829](https://github.com/opensandbox-group/OpenSandbox/pull/1829) — fix(cli): pass native argv to command run without shell quoting
+- **[oculus-samples/Unity-Movement](https://github.com/oculus-samples/Unity-Movement)**：
+  - [oculus-samples/Unity-Movement#143](https://github.com/oculus-samples/Unity-Movement/pull/143) — Fix Hand_IndexTip bone label mapping for OpenXR hand skeletons in OVRSkeleton
+- **[mksglu/context-mode](https://github.com/mksglu/context-mode)**：
+  - [mksglu/context-mode#1155](https://github.com/mksglu/context-mode/pull/1155) — Redact secrets from the debug report before it leaves the machine
 - **[tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory)**：
   - [tigerless-labs/agent-memory#37](https://github.com/tigerless-labs/agent-memory/pull/37) — Hold the store lock across find and write in correct and delete
   - [tigerless-labs/agent-memory#36](https://github.com/tigerless-labs/agent-memory/pull/36) — Serialize decision ledger appends through the store lock
@@ -51,8 +60,6 @@ BUPT 在读，专注 **LLM Agent 框架**与**生产级 Python 工程**。喜欢
   - [nashsu/llm_wiki#752](https://github.com/nashsu/llm_wiki/pull/752) — fix(insights): replace density threshold with mean intra-degree
   - [nashsu/llm_wiki#751](https://github.com/nashsu/llm_wiki/pull/751) — fix(claude-cli): surface is_error result events, not raw JSON dump
   - [nashsu/llm_wiki#748](https://github.com/nashsu/llm_wiki/pull/748) — fix: map reasoning controls onto Zhipu BigModel's generation-specific thinking API
-- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**：
-  - [OpenHands/OpenHands#16228](https://github.com/OpenHands/OpenHands/pull/16228) — feat(cli): add --frontend-port option to launcher scripts
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)**：
   - [crewAIInc/crewAI#6659](https://github.com/crewAIInc/crewAI/pull/6659) — fix: preserve replay data after kickoff_for_each
   - [crewAIInc/crewAI#6758](https://github.com/crewAIInc/crewAI/pull/6758) — fix(agents): recover real tool calls from fabricated observation continuations
